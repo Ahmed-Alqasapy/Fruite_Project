@@ -1,0 +1,422 @@
+*{
+    padding:0;
+    margin:0;
+}
+/* #home .contain{ */
+    /* margin:0px 150px; */
+/* } */
+.contain nav{
+    background-color: rgb(230, 230, 234);
+    width: 100%;
+}
+.contain nav ul{
+    margin-left: 160px;
+    background-color: rgb(230, 230, 234);
+}
+.contain nav ul a{
+    text-decoration: none;
+    color: rgb(83, 82, 82);
+    padding: 0 5px;
+}
+div .text-content1{
+    margin-left: 100px;
+
+}
+ul li{
+
+    display:inline-block;
+    padding:5px 17px;
+    cursor: pointer;
+}
+.logo{
+    width:40px;
+    padding-top:5px;
+    margin-left: 5px;
+}
+
+#First{
+    padding-left:400px;
+}
+#last{
+padding-left:25px;
+margin-top:15px;
+width:20px;
+}
+#fruite{
+font-size: 25px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ .content1{
+    width: 100%;
+    height: 600px;
+ display: inline-block;
+ align-items: center;
+ background-color:rgb(226, 226, 230) ;
+ margin-bottom: auto;
+}
+.fruitedish{
+width:400px;
+height:400px
+ align-items: right; 
+margin-left:800px;
+margin-top:-900px;
+
+}
+ div .text-content1{
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+margin-top:100px;
+margin-left:180px;
+}
+#h3 pre{
+margin-left:120px;
+margin-top:70px;
+font-family: initial;
+color: rgba(128, 128, 128, 0.929);
+}
+#tableone{
+    margin-top:auto;
+    border:2px;
+    text-align: left;
+    margin-left:180px;
+}
+#tableone .thone{
+background-color: rgba(243, 91, 40, 0.96);
+cursor: pointer;
+padding:10px 20px;
+}
+#tableone .thtwo
+{
+color:white;
+background-color: black;
+cursor: pointer;
+padding:10px 20px;
+}
+.content2 .P1{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+
+.content2 h1,.text-content3,.content3 p{
+text-align: center;
+}
+.text-content3{
+padding-bottom:20px;
+}  
+/* .bigtable tr {
+    text-align: center;
+    margin: auto auto;
+    padding-left: auto;
+    
+    } */
+/* .table1{
+/* margin-left: 20px; */
+
+/* text-align: center; */
+/* } */ 
+
+#orange1,#grapes1,#gauva1
+{
+color: orangered;
+}
+ 
+/* .or1,.gr1,.gau1 */
+/* { */
+/* width:50px; */
+/* } */
+ .table1 ,.table2 ,.table3 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    /* display: inline-block; */
+    margin: 0 15px;
+    padding: 7px;
+
+ width:300px; 
+ height: 250px;
+ border:1px solid rgba(128, 128, 128, .3);
+border-radius: 5px; 
+}
+.table1{
+    margin-left: 250px;
+}
+
+
+
+
+/* } */
+ .table1:hover,.table2:hover,.table3:hover
+{
+
+border-top:4px solid orangered;
+
+} 
+#gauva1{
+    text-align: center;
+}
+ .gau1{
+    align-items: center;
+   
+    padding-left: 65px;
+}
+
+
+
+.readmore{
+margin-top:30px;
+border: 2px solid black;
+padding:5px 20px;
+display: inline-block;
+text-align: center;
+margin-left: 700px;
+color:white;
+background-color: black;
+cursor: pointer;
+margin-bottom: 80px;
+}
+
+.Bestorange tr ,.Bestgrape tr,.Bestgauva tr{
+    text-align: left;
+    
+}
+.Bestorange,.Bestgrape,.Bestgauva{
+    margin-left:240px;;
+}
+
+
+#h5{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+
+    
+}
+ #h7{
+
+font-size: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+
+.halforange ,#h5, .halfgauva , #h7{
+
+display: inline-block;
+}
+ .halfgauva{
+width:180px;
+margin-left: 120px;
+}
+.halforange{
+    width:220px;
+    margin-left: 100px;
+}
+#h5,#h7,#h6{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.buynow{
+   
+
+border: 2px solid black;
+padding:5px 20px;
+display: inline-block;
+color:white;
+background-color: black;
+cursor: pointer;
+margin-bottom: 50px;
+text-align: left;
+}
+
+#h6{
+    
+
+font-size: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+/* .halfgrape ,#h6 {
+ 
+ display: inline-block;
+} */
+.halfgrape {
+ width:100px;
+ margin-left: 180px;
+}
+#h6{
+ /* margin-top: -150px; */
+ margin-bottom: 20px;
+}
+.tastyimage{
+background-image: url(images/tasty.png);
+background-position: center;
+background-repeat: no-repeat;
+/* position: relative; */
+color: white;
+text-align: center;
+/* align-items: center; */
+width:100%;
+height:400px;
+background-size: cover;
+/* font-size: 60px; */
+
+
+
+}
+.tastyimage h1{
+display: inline-block;
+margin:150px 0 0 0 ;
+font-size: 100px;
+
+}
+
+    .client-content{
+        align-items: center;
+    }
+
+.tes,.maj{
+    text-align: center;
+    margin-left: 480px;
+    margin-bottom: 30px;
+}
+.tes{
+    margin-top: 40px;
+}
+.maj{
+    
+    font-size: 15px; 
+   
+}
+.client{
+    align-items: center;
+    width: 300px;
+    margin-left: 580px;
+}
+ .john{
+    font-size: 22px;
+    margin-left: 705px;
+    margin-bottom: 25px;
+}
+#words{
+
+    margin-left: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+/* .words{
+     text-align: center;
+    /* margin-right: 350px;  */
+/* }   */ 
+.Name,.Number,.Text{
+    margin-left: 150px;
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    margin-bottom: 30px;
+    
+}
+ .Contact{
+    
+    margin-left: -150px;
+}
+.Name{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.Text{
+    margin-top: 5px;
+    margin-left: 200px;
+}
+.Number{
+    margin-top: 5px;
+    margin-left: 200px;
+}
+.mail{
+    margin-top: 5px;
+    margin-left: 200px;
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+.Button{
+    border: 1px solid black;
+    margin-left:200px;
+    background-color: orangered;
+    padding:5px 20px;
+    cursor: pointer;
+}
+.table4,.lemon{
+    display: inline-block;
+}
+.lemon{
+    width: 180px;
+    margin-left: 600px;
+    margin-top: 90px;
+}
+.Enditems{
+    padding:50px 200px;
+    text-align: center;
+    margin-left: 100px;
+    
+}
+.EndFruite,.EndServices,.EndList,.EndFollow{
+    margin: 0px 60px;
+    text-align: left;
+    font-size: 17px;
+
+}
+.EndFruite{
+    margin-left: -100px;
+}
+.EndFollow{
+    margin-left: 200px;
+}
+.IMG{
+    width:30px;
+    margin-bottom: 20px;
+}
+.EndFollow{
+   
+   /* padding-bottom: 20px; */
+    
+    
+}
+.EndList{
+margin-left: 100px;
+}
+.Followus{
+    margin-bottom: 20px;
+}
+.SUB{
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: orange;   
+    color: white;
+    padding:5px 20px;
+    width:100px;
+    cursor: pointer;
+
+}
+#Aftertext{
+    width:200px;
+    height: 25px;
+}
+.END{
+    height: 40px;
+    text-align: center;
+    background-color:rgb(230, 230, 234) ;
+    font-size: 17px;
+    padding-top: 20px;
+    
+}
+
+
+

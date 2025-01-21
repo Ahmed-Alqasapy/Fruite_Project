@@ -1,0 +1,151 @@
+*{
+    padding:0;
+    margin:0;
+}
+.contain nav{
+    background-color: rgb(230, 230, 234);
+    width: 100%;
+}
+.contain nav ul{
+    margin-left: 160px;
+    background-color: rgb(230, 230, 234);
+}
+.contain nav ul a{
+    text-decoration: none;
+    color: rgb(83, 82, 82);
+    padding: 0 5px;
+}
+ul li{
+
+    display:inline-block;
+    padding:5px 17px;
+    cursor: pointer;
+}
+
+.logo{
+    width:40px;
+    padding-top:5px;
+    margin-left: 5px;
+}
+
+#First{
+    padding-left:400px;
+}
+#last{
+padding-left:25px;
+margin-top:15px;
+width:20px;
+}
+#fruite{
+font-size: 25px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Name,.Number,.Text{
+    margin-left: 150px;
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    margin-bottom: 30px;
+    
+}
+ .Contact{
+    
+    margin-left: -150px;
+}
+.Name{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.Text{
+    margin-top: 5px;
+    margin-left: 200px;
+}
+.Number{
+    margin-top: 5px;
+    margin-left: 200px;
+}
+.mail{
+    margin-top: 5px;
+    margin-left: 200px;
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+.Button{
+    border: 1px solid black;
+    margin-left:200px;
+    background-color: orangered;
+    padding:5px 20px;
+    cursor: pointer;
+}
+.table4,.lemon{
+    display: inline-block;
+}
+.lemon{
+    width: 180px;
+    margin-left: 600px;
+    margin-top: 90px;
+}
+
+.Enditems{
+    padding:40px 90px;
+    text-align: center;
+    margin-left: 100px;
+    
+}
+.EndFruite,.EndServices,.EndList,.EndFollow{
+    margin: 0px 50px;
+    text-align: left;
+    font-size: 15px;
+    padding: 0px -50px;;
+
+}
+.EndFruite{
+    margin-left: 10px;
+}
+.EndFollow{
+    margin-left: 200px;
+}
+.IMG{
+    width:30px;
+    margin-bottom: 20px;
+}
+.EndFollow{
+   
+   /* padding-bottom: 20px; */
+    
+    
+}
+.EndList{
+margin-left: 100px;
+}
+.Followus{
+    margin-bottom: 20px;
+}
+.SUB{
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: orange;   
+    color: white;
+    padding:5px 10px;
+    width:100px;
+    cursor: pointer;
+
+}
+#Aftertext{
+    width:200px;
+    height: 25px;
+}
+.END{
+    height: 40px;
+    text-align: center;
+    background-color:rgb(230, 230, 234) ;
+    font-size: 17px;
+    padding-top:1px;
+    
+}
